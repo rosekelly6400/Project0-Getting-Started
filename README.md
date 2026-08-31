@@ -23,7 +23,8 @@ anything here that you don't want to share with the world.)
 ![](images/nsight%20systems.png)
 
 #### Nsight Compute on Windows
-![](images/nsightComputeFail.png)
+![](images/computeDetails.png)
+![](images/computeSummary.png)
 
 #### Part 2.2: Project Instructions - WebGL
 ![](images/WebGL_1.png)
